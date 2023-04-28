@@ -2,11 +2,11 @@
 
 Full-stack developer drawing from experiences at Amazon, a venture fund and virtual reality startup
 
-🔭 I’m currently working React
+🔭 I’m currently working on React
 
-🌱 I’m currently learning TypeScript, video game logic
+🌱 I’m currently learning TypeScript, video game logic, and some free courses through Stanford online
 
-👯 I’m looking to collaborate on anything with everybody!
+👯 I’m looking to collaborate on anything with everybody! I love meeting others and building cool products.
 
 👨‍💻 Most of my projects are available on my GitHub
 
@@ -14,7 +14,7 @@ Full-stack developer drawing from experiences at Amazon, a venture fund and virt
 
 📫 How to reach me seanevanlee@gmail.com
 
-<a href="https://drive.google.com/file/d/1p5OF5VrmMGiGgGSxPtxc-ulAOVo09FTQ/view?usp=sharing">📄 Resume</a> 
+<a href="https://drive.google.com/file/d/14ReKXKaKOpQ2WRnYc88Tt_irMqYdMNE8/view?usp=sharing">📄 Resume</a> 
 
 <a href="https://www.linkedin.com/in/seanevanlee/">💻 LinkedIn</a>
 
